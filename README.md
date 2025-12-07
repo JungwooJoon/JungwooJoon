@@ -1,24 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6705a5&height=300&section=header&text=WooJoon%20Github&fontSize=90&fontColor=fff)
-<br>
+
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+  ### 🤖 AI & Data Science Enthusiast 
+  <p>Passionate about AI & Tech</p>
+
+  <br>
+
+  <h3>Tech Stack</h3>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-8E24AA?style=flat&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-7B1FA2?style=flat&logo=PyTorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-4A148C?style=flat&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-6A1B9A?style=flat&logo=pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+  </div>
+  
+  <br>
+
+  <h3>Contact Me </h3>
+  
+  <a href="mailto:wjddnwns1212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7E57C2?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <br>
+  <br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jungwoojoon&theme=radical" />
+
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungwoojoon)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JungwooJoon/JungwooJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
